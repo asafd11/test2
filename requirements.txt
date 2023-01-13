@@ -1,0 +1,6 @@
+flask
+twilio
+openai
+json
+duffel
+mysql.connector
